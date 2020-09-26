@@ -1,0 +1,6 @@
+[submodule "Interfaces"]
+	path = Interfaces
+	url = ../mr-studio-interfaces.git
+[submodule "Content~"]
+	path = Content~
+	url = git@github.com:UnityLabs/MarsContent.git

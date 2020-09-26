@@ -1,0 +1,21 @@
+{
+  "name": "com.unity.mars-ar-foundation-providers",
+  "displayName": "MARS AR Foundation Providers",
+  "version": "1.1.2",
+  "unity": "2019.3",
+  "unityRelease": "0f6",
+  "description": "The MARS AR Foundation Provider wraps AR Foundation with MARS data providers.\nProviders include:\n- Camera Tracking\n- Plane Finding\n- Point Cloud\n- Reference Points\n- AR Raycasts\n- Image Markers\n- Face Tracking",
+  "dependencies": {
+    "com.unity.xrtools.utils": "1.1.1",
+    "com.unity.xrtools.module-loader": "1.1.1",
+    "com.unity.mars": "1.1.1"
+  },
+  "upmCi": {
+    "footprint": "1e5ad9e00db932637476227d0e50e90a3839dc85"
+  },
+  "repository": {
+    "url": "https://github.com/UnityLabs/com.unity.labs.mars-ar-foundation-providers.git",
+    "type": "git",
+    "revision": "6e2b31adda0b44c176d16e3a8fc19908e7fef2f4"
+  }
+}

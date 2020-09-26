@@ -1,0 +1,5 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 2 plat 4 at LabeledObjectHistogram.compute(7): failed to open source file: 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'
+  api=4 insize=2668 outsize=0 ok=0

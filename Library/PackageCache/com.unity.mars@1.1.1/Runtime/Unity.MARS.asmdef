@@ -1,0 +1,40 @@
+{
+    "name": "Unity.MARS",
+    "references": [
+        "Unity.XRTools.Utils",
+        "Unity.MARS.Interfaces",
+        "Unity.XRTools.ModuleLoader.Interfaces",
+        "Unity.XRTools.ModuleLoader",
+        "UnityEngine.SpatialTracking",
+        "Unity.Timeline",
+        "Unity.MARS.MARSHandles",
+        "Unity.MARS.MARSHandles.Picking",
+        "Unity.TextMeshPro",
+        "Unity.Postprocessing.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.postprocessing",
+            "expression": "2.0.0",
+            "define": "INCLUDE_POST_PROCESSING"
+        },
+        {
+            "name": "com.unity.xr.legacyinputhelpers",
+            "expression": "1.0.0",
+            "define": "INCLUDE_LEGACY_INPUT_HELPERS"
+        },
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "7.0.0",
+            "define": "INCLUDE_RENDER_PIPELINES_UNIVERSAL"
+        }
+    ],
+    "noEngineReferences": false
+}

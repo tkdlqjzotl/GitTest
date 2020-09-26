@@ -1,0 +1,24 @@
+{
+  "name": "com.unity.xrtools.module-loader",
+  "displayName": "XR Tools Module Loader",
+  "version": "1.1.1",
+  "unity": "2018.4",
+  "unityRelease": "20f1",
+  "description": "The XR Tools Module Loader package enables multiple systems to coexist within a single project and interact with each other in a predictable, configurable way.\nIt instantiates and loads modules in the Editor and in Player builds and provides control over which modules are active and APIs for getting access to modules.",
+  "dependencies": {
+    "com.unity.xrtools.utils": "1.1.1"
+  },
+  "samples": [
+    {
+      "displayName": "Example Modules",
+      "description": "Example code that demonstrates basic module types and prints to the log",
+      "path": "Samples~/Example"
+    }
+  ],
+  "repository": {
+    "footprint": "b92b6eb57ad1139be4114015499967d0add8e97c",
+    "type": "git",
+    "url": "https://github.com/UnityLabs/com.unity.labs.module-loader.git",
+    "revision": "aaffbc2348d07fc7d1693346b50aaa553e87561f"
+  }
+}
